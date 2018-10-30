@@ -19,3 +19,5 @@ Make a PR for the solution to the question, specify the issue number in the comm
 https://gitter.im/bvphec/Lobby
 
 ## NOTE - Only valid PR's related to issues will be merged.
+
+## Happy Hacking
